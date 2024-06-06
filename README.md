@@ -1,6 +1,8 @@
-## Hi guys, Portela here 👿
+## Hi guys, Portela here 😮‍💨
 
-Just wanna let u know, im a dev web student just trying have som3 fun. U welcome!😮‍💨
+###Still organizing that.
+
+Just wanna let u know, im a dev web student just trying have som3 fun. be welcome!
 
 [![card](https://github-readme-stats.vercel.app/api?username=theferp1&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=theferp1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
