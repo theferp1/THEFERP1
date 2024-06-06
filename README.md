@@ -5,7 +5,7 @@ Just wanna let u know, im a dev web student just trying have som3 fun. U welcome
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/thiago-portela-41a774251/" alt="Linkedin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
