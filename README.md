@@ -4,9 +4,8 @@
 
 Just wanna let u know, im a dev web student just trying have som3 fun. be welcome!
 
-[![card](https://github-readme-stats.vercel.app/api?username=theferp1&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=theferp1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![card](https://github-readme-stats.vercel.app/api?username=theferp1&theme=radical&show_icons=true)]
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=theferp1&layout=compact&theme=radical)]
 <div>
   <a href="https://www.linkedin.com/in/thiago-portela-41a774251/" alt="Linkedin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/theferp1" alt="GitHub" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
